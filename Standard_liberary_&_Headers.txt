@@ -1,0 +1,6 @@
+#include<iostream> : This includes the input/output stream library, which provides functionality for reading from and writing to the standard input/output streams
+#include<fstream> : This includes the file stream library, which provides functionality for reading from and writing to files using streams.
+#include<cstdlib> : This includes the C standard library, which includes functions involving memory allocation, random number generation, communication with the environment, integer arithmetics, searching, sorting, and converting strings.
+#include<vector>  : This includes the vector container class from the C++ Standard Template Library (STL). Vectors are dynamic arrays that can grow or shrink in size.
+#include<map> : This includes the map container class from the C++ STL. A map is an associative container that stores key-value pairs in a sorted order.
+This all liberary we are used in our projct.
